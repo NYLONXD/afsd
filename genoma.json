@@ -1,0 +1,51 @@
+{
+  "repoName": "afsd",
+  "projectType": "chatbot",
+  "graph": {
+    "nodes": [
+      {
+        "id": "sysInput",
+        "type": "inputNode",
+        "position": {
+          "x": -200,
+          "y": 350
+        },
+        "data": {
+          "label": "System Input",
+          "schema": []
+        },
+        "measured": {
+          "width": 334,
+          "height": 165
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "sysOutput",
+        "type": "outputNode",
+        "position": {
+          "x": 900,
+          "y": 350
+        },
+        "data": {
+          "label": "System Output",
+          "schema": []
+        },
+        "measured": {
+          "width": 334,
+          "height": 165
+        },
+        "selected": false,
+        "dragging": false
+      }
+    ],
+    "edges": [],
+    "viewport": {
+      "x": 412.01,
+      "y": 154.54,
+      "zoom": 0.58
+    }
+  },
+  "assets": []
+}
